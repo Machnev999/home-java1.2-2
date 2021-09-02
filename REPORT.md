@@ -7,13 +7,13 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [Неправильно отображается математический ответ](https://github.com/Machnev999/home-java1.2-2/issues/1)
+* [В коде неправильный тип переменной](https://github.com/Machnev999/home-java1.2-2/issues/1)
 
 ## Описание процесса тестирования
 
 *В процессе тестирования использовались следующие артефакты*:
 
-* Код [public class Main](https://github.com/Machnev999/home-java1.2-2/blob/main/src/Main.java)
+* Код [public class Main](https://raw.githubusercontent.com/Machnev999/home-java1.2-2/main/MAIN.java)
 * IntelliJ IDEA
 
 
