@@ -13,7 +13,7 @@
 
 *В процессе тестирования использовались следующие артефакты*:
 
-* Код [public class Main](https://raw.githubusercontent.com/Machnev999/home-java1.2-2/main/MAIN.java)
+* Код [public class Main](https://raw.githubusercontent.com/Machnev999/home-java1.2-2/main/src/Main.java)
 * IntelliJ IDEA
 
 
